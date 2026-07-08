@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>Hello! I'm [Your Name]</h1>
+    <h1>Hello! I'm Omar</h1>
     <p>Welcome to my first website. I'm learning about web hosting and this is where I'll post my projects and experiments.</p>
     <p>Some things I'm interested in:</p>
     <ul>
